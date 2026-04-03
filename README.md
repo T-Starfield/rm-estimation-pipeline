@@ -47,7 +47,7 @@ The pipeline expects:
 
 ```bash
 bash rm_full_pipeline.sh <input_directory> <output_directory>
-
+```
 ---
 
 ## Output
@@ -60,5 +60,27 @@ The pipeline generates:
 	-- 1/delta
 	-- nu
 	-- r/m estimates
+
+---
+
+## Notes
+
+- Only orthologous genes with high sequence identity (e.g., ≥97%) should be used
+- Genes should be present in a sufficient number of genomes (e.g., ≥80% completeness threshold).
+- Results depend on alignment quality and phylogenetic accuracy.
+
+
+---
+
+## Citation
+
+If you use this pipeline, please cite:
+Hoshino, T. (2026).
+r/m estimation pipeline for subseafloor microbial genomes.
+GitHub repository: https://github.com/yourname/rm-estimation-pipeline
+
+
+
+
 		
 
