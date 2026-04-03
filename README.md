@@ -75,9 +75,10 @@ The pipeline generates:
 ## Citation
 
 If you use this pipeline, please cite:
+```text
 Hoshino, T. (2026).
 r/m estimation pipeline for subseafloor microbial genomes.
-GitHub repository: https://github.com/yourname/rm-estimation-pipeline
+Zenodo. https://doi.org/10.5281/zenodo.19394147
 
 
 
