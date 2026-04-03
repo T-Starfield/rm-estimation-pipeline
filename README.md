@@ -48,6 +48,8 @@ The pipeline expects:
 ```bash
 bash rm_full_pipeline.sh <input_directory> <output_directory>
 
+---
+
 ## Output
 
 The pipeline generates:
@@ -58,4 +60,5 @@ The pipeline generates:
 	-- 1/delta
 	-- nu
 	-- r/m estimates
+		
 
